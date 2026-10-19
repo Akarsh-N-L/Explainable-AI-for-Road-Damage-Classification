@@ -1,11 +1,5 @@
 # Road Crack Classification and Explainability
 
-MCM Practicum — Dublin City University, School of Computing (2025–2026)
-
-**Student:** Balaji Segu Krishnaiah, Akarsh Nichunnaduttlu Lakshmisha
-
----
-
 ## Project Overview
 
 This project investigates deep learning approaches to road crack classification using the RDD2022 benchmark dataset.  
